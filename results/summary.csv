@@ -1,0 +1,5 @@
+difficulty,questions,accuracy_%,first_try_accuracy_%,needed_retry,avg_latency_s
+easy,17,100.0,100.0,0,2.5
+medium,17,100.0,100.0,0,4.5
+hard,17,100.0,100.0,0,5.3
+overall,51,100.0,100.0,0,4.1

@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# Environment and caches
+.venv/
+__pycache__/
+.pytest_cache/
+.claude/
+
+# Downloaded data and the database built from it (rebuild with `python -m text2sql.db`)
+data/raw/
+data/olist.db
